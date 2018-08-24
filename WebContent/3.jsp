@@ -5,9 +5,9 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-<title>Insert title here</title>
+<title>3.jsp</title>
 </head>
 <body>
-
+<h2>3.jsp에 내용 추가 </h2>
 </body>
 </html>
